@@ -50,4 +50,3 @@ This project is intended for **personal use only**, and automating votes may vio
 
 ## 📜 License
 MIT License © 2025 TrumLxrd
-```
