@@ -1,6 +1,12 @@
 
 # 🤖 Top.gg Auto Bot Voter
 
+[![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Made with Selenium](https://img.shields.io/badge/made%20with-Selenium-blue?logo=selenium)](https://www.selenium.dev/)
+[![GitHub license](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)]()
+[![Author](https://img.shields.io/badge/author-TrumLxrd-purple)]()
+
 A simple **Top.gg auto bot voter** made with **Node.js + Selenium**.  
 Just run it once, log in with your Discord account, and the script will handle your future votes automatically.
 
@@ -15,7 +21,7 @@ Just run it once, log in with your Discord account, and the script will handle y
 ## 📦 Installation
 
 ```
-git clone https://github.com/yourusername/topgg-auto-voter.git
+git clone https://github.com/TrumLxrd/topgg-auto-voter.git
 cd topgg-auto-voter
 npm install
 ```
@@ -49,4 +55,4 @@ This project is intended for **personal use only**, and automating votes may vio
 ---
 
 ## 📜 License
-MIT License © 2025 TrumLxrd
+MIT License © 2025 **TrumLxrd**
