@@ -6,8 +6,8 @@ const { Builder, By, Key, until } = require('selenium-webdriver');
         await driver.get('https://discord.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D264434993625956352%26scope%3Didentify%26redirect_uri%3Dhttps%253A%252F%252Ftop.gg%252Flogin%252Fcallback%26response_type%3Dcode');
 
         //login
-        await driver.findElement(By.name('email')).sendKeys('adhamtarek2007@gmail.com'); //email
-        await driver.findElement(By.name('password')).sendKeys('adham2007oda', Key.ENTER); //password
+        await driver.findElement(By.name('email')).sendKeys(''); //email
+        await driver.findElement(By.name('password')).sendKeys('', Key.ENTER); //password
 
         await function sleep(ms) {
             return new Promise((resolve) => {
@@ -29,4 +29,5 @@ const { Builder, By, Key, until } = require('selenium-webdriver');
     }
     finally {
     }
+
 })();
